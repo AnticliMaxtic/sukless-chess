@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "sukless-chess",
+  "version": "0.0.0",
+  "dependencies": [
+    "catch2",
+    "cli11",
+    "sdl2",
+    "sdl2-mixer",
+    "sdl2-image"
+  ]
+}
